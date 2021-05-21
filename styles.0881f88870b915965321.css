@@ -1,0 +1,17 @@
+/*!
+ * Agate by Taufik Nurrohman <https://github.com/tovic>
+ * ----------------------------------------------------
+ *
+ * #ade5fc
+ * #a2fca2
+ * #c6b4f0
+ * #d36363
+ * #fcc28c
+ * #fc9b9b
+ * #ffa
+ * #fff
+ * #333
+ * #62c8f3
+ * #888
+ *
+ */.hljs{display:block;overflow-x:auto;padding:.5em;background:#333;color:#fff}.hljs-name,.hljs-strong{font-weight:700}.hljs-code,.hljs-emphasis{font-style:italic}.hljs-tag{color:#62c8f3}.hljs-selector-class,.hljs-selector-id,.hljs-template-variable,.hljs-variable{color:#ade5fc}.hljs-bullet,.hljs-string{color:#a2fca2}.hljs-attribute,.hljs-built_in,.hljs-builtin-name,.hljs-quote,.hljs-section,.hljs-title,.hljs-type{color:#ffa}.hljs-bullet,.hljs-number,.hljs-symbol{color:#d36363}.hljs-keyword,.hljs-literal,.hljs-selector-tag{color:#fcc28c}.hljs-code,.hljs-comment,.hljs-deletion{color:#888}.hljs-link,.hljs-regexp{color:#c6b4f0}.hljs-meta{color:#fc9b9b}.hljs-deletion{background-color:#fc9b9b;color:#333}.hljs-addition{background-color:#a2fca2;color:#333}.hljs a{color:inherit}.hljs a:focus,.hljs a:hover{color:inherit;text-decoration:underline}.sub-section{margin-bottom:60px}.rb-card{border:none;border-radius:4px;box-shadow:5px 5px 16px 0 rgba(0,0,0,.13);cursor:pointer;transition:all .2s ease-in-out;position:relative;overflow:hidden}.rb-card a{color:#515f6a}.rb-card:hover{-webkit-transform:scale(1.05);transform:scale(1.05)}.m-l-5{margin-left:5px!important}.m-t-10{margin-top:10px!important}.m-t-30{margin-top:30px!important}.p-t-30{padding-top:30px!important}.p-b-30{padding-bottom:30px!important}.m-t-50{margin-top:50px!important}.m-t-60{margin-top:60px!important}.b-t{border-top:1px solid #e2e8ef}.ellipsis{display:block;display:-webkit-box;margin:0 auto;line-height:1.4;overflow:hidden;text-overflow:ellipsis}.is-ellipsis-1{-webkit-line-clamp:1}.is-ellipsis-2{-webkit-line-clamp:2}h1,h2,h3,h4{font-family:Montserrat,sans-serif;font-weight:600}.title{font-weight:600}.field.has-shadow-field{box-shadow:0 5px 30px rgba(156,160,171,.25)!important}.subtitle{font-family:BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:500}.hero.is-light .subtitle,.subtitle{color:#99a6b3}.input{box-shadow:none;-webkit-box-shadow:none}.input:-webkit-autofill{-webkit-box-shadow:0 0 0 30px #fff inset}.input:invalid{outline:0;box-shadow:none}.input:active,.input:focus{box-shadow:none}.button{transition:all .3s ease-out;font-family:Montserrat,sans-serif;font-weight:500}.button.is-shadowy{box-shadow:0 5px 30px rgba(156,160,171,.25);-webkit-box-shadow:0 5px 30px rgba(156,160,171,.25);-moz-box-shadow:0 5px 30px rgba(156,160,171,.25)}.button.is-shadowy:hover{box-shadow:0 16px 43px 2px rgba(0,0,0,.2)}a{transition:color .3s ease-out}.navbar.is-transparent{background-color:transparent;background-image:none}a:hover{color:#00d1b2}
